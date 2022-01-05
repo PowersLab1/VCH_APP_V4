@@ -1,6 +1,6 @@
 {
-  "homepage": "http://powerslab1.github.io/VCH_APP",
-  "name": "vch_app",
+  "homepage": "http://powerslab1.github.io/VCH_APP_v4",
+  "name": "vch_app_v4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
